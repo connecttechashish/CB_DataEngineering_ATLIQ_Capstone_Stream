@@ -29,7 +29,7 @@ Phase 2 (speed lane)   continuous   events → Kafka → Streaming
 
 ## 🏗️ Architecture
 
-![Phase 2 architecture](screenshots/phase2_architecture.png)
+![Phase 2 architecture](00_docs/phase2_architecture.png)
 
 | Layer | Component | Role |
 |---|---|---|
